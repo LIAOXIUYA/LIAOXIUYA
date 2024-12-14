@@ -1,9 +1,10 @@
 ### WELCOME 👋
 #
-### I'm Alex.
+<img src="https://github.com/LIAOXIUYA/LIAOXIUYA/blob/main/image/b1d37031b7d37d607c14196d815032f.jpg#pic_center" width="350px">
+### I'm Alex. 
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m currently working on something cool.  
+- 🌱 I’m currently learning Everything I like.  
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: liaoxiuya@graduate.utm.my
   #
